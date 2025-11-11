@@ -1,2 +1,4 @@
-/DmProjectenv/
-
+*.class
+venv/
+__pycache__/
+*.pyc
